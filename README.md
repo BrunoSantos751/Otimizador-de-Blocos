@@ -47,7 +47,7 @@ python main.py
 
 ---
 
-### 3. Digitar Instruções Personalizadas (Opção 4)
+### 3. Digitar Instruções Personalizadas (Opção 4).
 Ao escolher a opção `4`, você poderá testar suas próprias sequências de instruções de três endereços. 
 
 #### Como usar:
